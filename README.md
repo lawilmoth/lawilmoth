@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lawilmoth
 - 👀 I’m interested in math, coding, and education.
-- 🌱 I’m currently learning how to use GitHub, Python, SQL
+- 🌱 I’m currently learning how to use GitHub, Python, SQL, HTML, CSS, and JavaScript
 - 💞️ I’m looking to collaborate on Python projects that will help me learn to code better.
 - 📫 How to reach me: lwilmoth@eriesd.org
 
